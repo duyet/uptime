@@ -38,7 +38,7 @@ status-website:
   introMessage: This is the page which uses **real-time** data from [GitHub repository](https://github.com/duyet/uptime).
   navbar:
     - title: Status
-      href: /
+      href: https://$OWNER.github.io/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
