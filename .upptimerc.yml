@@ -4,9 +4,9 @@ repo: uptime
 sites:
   - name: duyet.net  
     url: https://duyet.net
-  - name: Blog  
+  - name: blog.duyet.net  
     url: https://blog.duyet.net
-  - name: Shorten Link
+  - name: s.duyet.net
     url: https://s.duyet.net
   - name: pricetrack
     url: https://tracker.duyet.net
