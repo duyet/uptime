@@ -8,12 +8,24 @@ sites:
     url: https://blog.duyet.net
   - name: Shorten Link
     url: https://s.duyet.net
+  - name: pricetrack
+    url: https://tracker.duyet.net
+  - name: cdn.duyet.net
+    url: https://cdn.duyet.net
+  - name: til.duyet.net
+    url: https://til.duyet.net
   - name: Okie.one
     url: https://okie.one
   - name: The Feedback
     url: https://feedback.okie.one
   - name: The Feedback Docs
     url: https://feedback.okie.one/docs
+  - name: Ngan.vn
+    url: https://ngan.vn
+  - name: Very Nini
+    url: https://verynini.com
+  - name: hocdata.com
+    url: https://hocdata.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
