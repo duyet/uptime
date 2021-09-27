@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 313,
     "timeDay": 303,
-    "timeWeek": 313,
+    "timeWeek": 300,
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 73,
-    "timeWeek": 92,
+    "timeWeek": 96,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 98,
     "timeDay": 120,
-    "timeWeek": 98,
+    "timeWeek": 105,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 90,
-    "timeWeek": 148,
+    "timeWeek": 82,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 159,
-    "timeWeek": 138,
+    "timeWeek": 135,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 874,
     "timeDay": 193,
-    "timeWeek": 874,
+    "timeWeek": 206,
     "timeMonth": 874,
     "timeYear": 874,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 838,
-    "timeWeek": 290,
+    "timeWeek": 338,
     "timeMonth": 290,
     "timeYear": 290,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 344,
-    "timeWeek": 262,
+    "timeWeek": 295,
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 173,
     "timeDay": 419,
-    "timeWeek": 173,
+    "timeWeek": 187,
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -166,18 +166,19 @@
     "url": "https://cake.ngan.vn",
     "icon": "https://favicons.githubusercontent.com/cake.ngan.vn",
     "slug": "ngan-vn",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.23%",
     "time": 10178,
     "timeDay": 6268,
-    "timeWeek": 10178,
+    "timeWeek": 10127,
     "timeMonth": 10178,
     "timeYear": 10178,
     "dailyMinutesDown": {
+      "2021-09-27": 0,
       "2021-09-23": 81
     }
   },
@@ -194,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 2303,
     "timeDay": 1879,
-    "timeWeek": 2303,
+    "timeWeek": 1805,
     "timeMonth": 2303,
     "timeYear": 2303,
     "dailyMinutesDown": {}
@@ -212,7 +213,7 @@
     "uptimeYear": "100.00%",
     "time": 517,
     "timeDay": 156,
-    "timeWeek": 517,
+    "timeWeek": 187,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {}
