@@ -4,19 +4,19 @@
     "url": "https://duyet.net",
     "icon": "https://favicons.githubusercontent.com/duyet.net",
     "slug": "duyet-net",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 308,
-    "timeDay": 245,
-    "timeWeek": 309,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 305,
+    "timeDay": 249,
+    "timeWeek": 302,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
-      "2021-09-29": 1
+      "2021-09-29": 9
     }
   },
   {
