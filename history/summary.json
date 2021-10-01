@@ -130,9 +130,9 @@
     "url": "https://feedback.okie.one",
     "icon": "https://favicons.githubusercontent.com/feedback.okie.one",
     "slug": "the-feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 263,
     "timeMonth": 258,
     "timeYear": 258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-01": 0
+    }
   },
   {
     "name": "The Feedback Docs",
@@ -167,13 +169,13 @@
     "icon": "https://favicons.githubusercontent.com/cake.ngan.vn",
     "slug": "ngan-vn",
     "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "98.96%",
+    "uptime": "98.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
     "time": 11787,
-    "timeDay": 7038,
+    "timeDay": 2254,
     "timeWeek": 12847,
     "timeMonth": 11787,
     "timeYear": 11787,
