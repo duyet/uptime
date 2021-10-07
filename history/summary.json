@@ -226,19 +226,19 @@
     "url": "https://duyet.github.io/uptime",
     "icon": "https://favicons.githubusercontent.com/duyet.github.io",
     "slug": "uptime",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "97.26%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.26%",
-    "uptimeYear": "97.26%",
-    "time": 119,
-    "timeDay": 119,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "status": "up",
+    "uptime": "94.41%",
+    "uptimeDay": "94.41%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "94.41%",
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2021-10-07": 23
+      "2021-10-07": 48
     }
   }
 ]
