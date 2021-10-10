@@ -112,19 +112,19 @@
     "url": "https://okie.one",
     "icon": "https://favicons.githubusercontent.com/okie.one",
     "slug": "okie-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 184,
-    "timeWeek": 210,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 230,
+    "timeDay": 160,
+    "timeWeek": 204,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2021-10-10": 1
+      "2021-10-10": 11
     }
   },
   {
