@@ -168,19 +168,19 @@
     "url": "https://cake.ngan.vn",
     "icon": "https://favicons.githubusercontent.com/cake.ngan.vn",
     "slug": "ngan-vn",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.92%",
-    "time": 10398,
-    "timeDay": 13200,
-    "timeWeek": 11157,
-    "timeMonth": 10398,
-    "timeYear": 10398,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 10692,
+    "timeDay": 15879,
+    "timeWeek": 12065,
+    "timeMonth": 10692,
+    "timeYear": 10692,
     "dailyMinutesDown": {
-      "2021-10-16": 36,
+      "2021-10-16": 62,
       "2021-10-11": 32,
       "2021-10-10": 53,
       "2021-10-04": 27,
@@ -263,7 +263,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-16": 135
+      "2021-10-16": 161
     }
   }
 ]
