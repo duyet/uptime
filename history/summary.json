@@ -4,19 +4,19 @@
     "url": "https://duyet.net",
     "icon": "https://favicons.githubusercontent.com/duyet.net",
     "slug": "duyet-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 279,
-    "timeWeek": 276,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 286,
+    "timeDay": 268,
+    "timeWeek": 273,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.duyet.net",
     "icon": "https://favicons.githubusercontent.com/blog.duyet.net",
     "slug": "blog-duyet-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 94,
-    "timeDay": 66,
+    "timeDay": 71,
     "timeWeek": 83,
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 17
     }
   },
   {
@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-18": 627,
+      "2021-10-18": 643,
       "2021-10-17": 1440,
       "2021-10-16": 949
     }
