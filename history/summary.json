@@ -13,7 +13,7 @@
     "time": 295,
     "timeDay": 355,
     "timeWeek": 302,
-    "timeMonth": 296,
+    "timeMonth": 306,
     "timeYear": 295,
     "dailyMinutesDown": {
       "2021-10-18": 17
@@ -33,7 +33,7 @@
     "time": 100,
     "timeDay": 221,
     "timeWeek": 138,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2021-10-18": 17
@@ -89,7 +89,7 @@
     "time": 139,
     "timeDay": 112,
     "timeWeek": 181,
-    "timeMonth": 142,
+    "timeMonth": 145,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -107,7 +107,7 @@
     "time": 359,
     "timeDay": 961,
     "timeWeek": 316,
-    "timeMonth": 255,
+    "timeMonth": 266,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -125,7 +125,7 @@
     "time": 225,
     "timeDay": 119,
     "timeWeek": 134,
-    "timeMonth": 211,
+    "timeMonth": 218,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2021-10-29": 21,
@@ -139,36 +139,40 @@
     "url": "https://feedback.okie.one",
     "icon": "https://favicons.githubusercontent.com/feedback.okie.one",
     "slug": "the-feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 164,
     "timeWeek": 120,
-    "timeMonth": 230,
+    "timeMonth": 233,
     "timeYear": 241,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-09": 2
+    }
   },
   {
     "name": "The Feedback Docs",
     "url": "https://feedback.okie.one/docs",
     "icon": "https://favicons.githubusercontent.com/feedback.okie.one",
     "slug": "the-feedback-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 141,
     "timeDay": 50,
     "timeWeek": 119,
-    "timeMonth": 138,
+    "timeMonth": 144,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-09": 0
+    }
   },
   {
     "name": "Ngan.vn",
@@ -176,11 +180,11 @@
     "icon": "https://favicons.githubusercontent.com/cake.ngan.vn",
     "slug": "ngan-vn",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 9436,
     "timeDay": 2082,
     "timeWeek": 3555,
@@ -241,7 +245,7 @@
     "time": 247,
     "timeDay": 374,
     "timeWeek": 192,
-    "timeMonth": 203,
+    "timeMonth": 209,
     "timeYear": 247,
     "dailyMinutesDown": {}
   },
@@ -271,11 +275,11 @@
     "icon": "https://favicons.githubusercontent.com/duyetdev.com",
     "slug": "duyetdev-com",
     "status": "up",
-    "uptime": "64.40%",
+    "uptime": "65.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.40%",
-    "uptimeYear": "64.40%",
+    "uptimeMonth": "65.59%",
+    "uptimeYear": "65.59%",
     "time": 315,
     "timeDay": 359,
     "timeWeek": 307,
