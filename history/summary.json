@@ -137,9 +137,9 @@
     "url": "https://okie.one",
     "icon": "https://favicons.githubusercontent.com/okie.one",
     "slug": "okie-one",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -149,6 +149,7 @@
     "timeMonth": 151,
     "timeYear": 168,
     "dailyMinutesDown": {
+      "2022-07-28": 0,
       "2022-04-03": 11,
       "2021-10-29": 21,
       "2021-10-24": 17,
@@ -387,19 +388,19 @@
     "url": "https://next.ngan.vn",
     "icon": "https://favicons.githubusercontent.com/next.ngan.vn",
     "slug": "next-ngan-vn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 299,
-    "timeWeek": 347,
-    "timeMonth": 173,
+    "timeDay": 253,
+    "timeWeek": 330,
+    "timeMonth": 174,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 13
     }
   }
 ]
