@@ -28,8 +28,6 @@ sites:
     url: https://hocdata.com
   - name: uptime
     url: https://duyet.github.io/uptime
-  - name: duyetdev.com
-    url: https://duyetdev.com
   - name: next.ngan.vn
     url: https://next.ngan.vn
   
