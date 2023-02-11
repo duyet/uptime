@@ -293,7 +293,7 @@
     "uptime": "85.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
-    "uptimeMonth": "60.95%",
+    "uptimeMonth": "60.98%",
     "uptimeYear": "79.65%",
     "time": 3560,
     "timeDay": 2702,
@@ -418,13 +418,13 @@
     "url": "https://verynini.com",
     "icon": "https://icons.duckduckgo.com/ip3/verynini.com.ico",
     "slug": "very-nini",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "88.19%",
-    "uptimeWeek": "95.52%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "88.16%",
+    "uptimeWeek": "95.51%",
     "uptimeMonth": "96.92%",
     "uptimeYear": "99.74%",
-    "time": 3092,
+    "time": 3094,
     "timeDay": 10661,
     "timeWeek": 9350,
     "timeMonth": 6205,
@@ -448,8 +448,7 @@
       "2023-01-27": 33,
       "2023-01-25": 19,
       "2023-01-22": 7,
-      "2023-01-21": 8,
-      "2023-01-08": 11
+      "2023-01-21": 8
     }
   },
   {
