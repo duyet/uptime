@@ -290,10 +290,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngan.vn.ico",
     "slug": "ngan-vn",
     "status": "up",
-    "uptime": "85.42%",
+    "uptime": "85.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.06%",
+    "uptimeMonth": "81.39%",
     "uptimeYear": "79.67%",
     "time": 3558,
     "timeDay": 2640,
@@ -416,11 +416,11 @@
     "url": "https://verynini.com",
     "icon": "https://icons.duckduckgo.com/ip3/verynini.com.ico",
     "slug": "very-nini",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "95.22%",
-    "uptimeMonth": "96.68%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.72%",
     "time": 3320,
     "timeDay": 1946,
@@ -428,7 +428,7 @@
     "timeMonth": 6525,
     "timeYear": 3482,
     "dailyMinutesDown": {
-      "2023-02-17": 8,
+      "2023-02-17": 9,
       "2023-02-16": 8,
       "2023-02-13": 108,
       "2023-02-12": 168,
@@ -443,7 +443,7 @@
       "2023-02-03": 11,
       "2023-02-02": 231,
       "2023-02-01": 396,
-      "2023-01-31": 43
+      "2023-01-31": 33
     }
   },
   {
