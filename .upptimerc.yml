@@ -20,6 +20,8 @@ sites:
     url: https://duyet.github.io/rss
   - name: modern-data-team.vercel.app
     url: https://modern-data-team.vercel.app
+  - name: pageview.duyet.net
+    url: https://pageview.duyet.net
   - name: cdn.duyet.net
     url: https://cdn.duyet.net
   - name: til.duyet.net
