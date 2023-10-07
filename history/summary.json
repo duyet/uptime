@@ -148,7 +148,7 @@
     "timeMonth": 73,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2023-10-07": 313,
+      "2023-10-07": 325,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
@@ -542,10 +542,10 @@
     "url": "https://verynini.com",
     "icon": "https://icons.duckduckgo.com/ip3/verynini.com.ico",
     "slug": "very-nini",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "98.28%",
+    "uptimeDay": "94.10%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.54%",
     "time": 3159,
@@ -585,7 +585,7 @@
       "2023-02-05": 8,
       "2023-02-04": 12,
       "2023-02-03": 11,
-      "2023-02-02": 95
+      "2023-02-02": 87
     }
   },
   {
