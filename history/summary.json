@@ -165,7 +165,7 @@
     "timeMonth": 57,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2024-03-06": 1136,
+      "2024-03-06": 1147,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -531,9 +531,9 @@
     "url": "https://til.duyet.net",
     "icon": "https://icons.duckduckgo.com/ip3/til.duyet.net.ico",
     "slug": "til-duyet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.54%",
+    "uptimeDay": "99.50%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "97.32%",
     "uptimeYear": "99.77%",
@@ -543,7 +543,7 @@
     "timeMonth": 223,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2024-03-06": 7,
+      "2024-03-06": 8,
       "2024-02-20": 1032,
       "2024-02-19": 137,
       "2023-12-15": 11
