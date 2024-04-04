@@ -40,9 +40,9 @@ sites:
     url: https://duyet.github.io/uptime
   - name: next.ngan.vn
     url: https://next.ngan.vn
-   - name: rust-tieng-viet.github.io
+  - name: rust-tieng-viet.github.io
     url: https://rust-tieng-viet.github.io
-   - name: clickhouse-monitoring.vercel.app
+  - name: clickhouse-monitoring.vercel.app
     url: https://clickhouse-monitoring.vercel.app/healthz
 
 status-website:
