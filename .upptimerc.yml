@@ -3,7 +3,7 @@ repo: uptime
 
 sites:
   - name: duyet.net  
-    url: https://duyet.net
+    url: https://duyet.net/ping
   - name: blog.duyet.net  
     url: https://blog.duyet.net
   - name: s.duyet.net
