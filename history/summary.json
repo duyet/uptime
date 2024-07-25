@@ -188,7 +188,7 @@
     "timeMonth": 1590,
     "timeYear": 2024,
     "dailyMinutesDown": {
-      "2024-07-25": 1253,
+      "2024-07-25": 1262,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -587,19 +587,19 @@
     "url": "https://duet-ubuntu.dingo-mora.ts.net/ping",
     "icon": "https://icons.duckduckgo.com/ip3/duet-ubuntu.dingo-mora.ts.net.ico",
     "slug": "duet-ubuntu-dingo-mora-ts-net",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 1338,
     "timeDay": 1338,
     "timeWeek": 1338,
     "timeMonth": 1338,
     "timeYear": 1338,
     "dailyMinutesDown": {
-      "2024-07-25": 8
+      "2024-07-25": 9
     }
   }
 ]
