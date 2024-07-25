@@ -177,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pageview.duyet.net.ico",
     "slug": "pageview-duyet-net",
     "status": "down",
-    "uptime": "77.39%",
+    "uptime": "77.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.34%",
+    "uptimeYear": "70.29%",
     "time": 2057,
     "timeDay": 1677,
     "timeWeek": 1476,
     "timeMonth": 1590,
     "timeYear": 2024,
     "dailyMinutesDown": {
-      "2024-07-25": 162,
+      "2024-07-25": 412,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -585,17 +585,19 @@
     "url": "https://duet-ubuntu.dingo-mora.ts.net/ping",
     "icon": "https://icons.duckduckgo.com/ip3/duet-ubuntu.dingo-mora.ts.net.ico",
     "slug": "duet-ubuntu-dingo-mora-ts-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1609,
     "timeDay": 1609,
     "timeWeek": 1609,
     "timeMonth": 1609,
     "timeYear": 1609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-25": 1
+    }
   }
 ]
