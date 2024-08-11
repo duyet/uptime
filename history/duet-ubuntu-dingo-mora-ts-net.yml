@@ -1,7 +1,7 @@
 url: https://duet-ubuntu.dingo-mora.ts.net/ping
-status: down
-code: 502
-responseTime: 2829
-lastUpdated: 2024-08-11T21:03:15.183Z
+status: up
+code: 200
+responseTime: 1749
+lastUpdated: 2024-08-11T21:14:38.713Z
 startTime: 2024-07-25T02:40:58.927Z
 generator: Upptime <https://github.com/upptime/upptime>
