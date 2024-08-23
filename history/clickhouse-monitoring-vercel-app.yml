@@ -1,7 +1,7 @@
 url: https://clickhouse-monitoring.vercel.app/healthz
 status: up
 code: 200
-responseTime: 849
-lastUpdated: 2024-08-22T23:04:47.736Z
+responseTime: 867
+lastUpdated: 2024-08-23T23:05:03.526Z
 startTime: 2024-04-04T14:16:51.461Z
 generator: Upptime <https://github.com/upptime/upptime>
