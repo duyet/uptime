@@ -11,9 +11,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.75%",
     "time": 383,
-    "timeDay": 918,
-    "timeWeek": 346,
-    "timeMonth": 325,
+    "timeDay": 196,
+    "timeWeek": 347,
+    "timeMonth": 323,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2025-02-16": 11,
@@ -21,8 +21,7 @@
       "2024-12-19": 10,
       "2024-12-17": 15,
       "2024-08-28": 112,
-      "2024-04-04": 7,
-      "2024-02-20": 1032
+      "2024-04-04": 7
     }
   },
   {
@@ -37,14 +36,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 192,
-    "timeDay": 279,
-    "timeWeek": 444,
-    "timeMonth": 349,
+    "timeDay": 136,
+    "timeWeek": 405,
+    "timeMonth": 346,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2024-10-22": 11,
-      "2024-06-02": 8,
-      "2024-02-20": 1032
+      "2024-06-02": 8
     }
   },
   {
@@ -59,13 +57,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 102,
-    "timeDay": 106,
-    "timeWeek": 132,
-    "timeMonth": 124,
+    "timeDay": 81,
+    "timeWeek": 131,
+    "timeMonth": 123,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2024-02-20": 1032
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pricetrack",
@@ -79,12 +75,32 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 78,
-    "timeDay": 44,
-    "timeWeek": 105,
-    "timeMonth": 90,
+    "timeDay": 141,
+    "timeWeek": 118,
+    "timeMonth": 91,
     "timeYear": 79,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "cv.duyet.net",
+    "url": "https://cv.duyet.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cv.duyet.net.ico",
+    "slug": "cv-duyet-net",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.77%",
+    "time": 118,
+    "timeDay": 104,
+    "timeWeek": 97,
+    "timeMonth": 113,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-02-20": 1032
+      "2024-10-22": 0,
+      "2024-09-19": 8,
+      "2024-06-02": 8
     }
   },
   {
@@ -99,38 +115,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 118,
-    "timeDay": 94,
-    "timeWeek": 93,
-    "timeMonth": 112,
+    "timeDay": 104,
+    "timeWeek": 97,
+    "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2024-10-22": 0,
       "2024-09-19": 8,
-      "2024-06-02": 8,
-      "2024-02-20": 1032
-    }
-  },
-  {
-    "name": "cv.duyet.net",
-    "url": "https://cv.duyet.net",
-    "icon": "https://icons.duckduckgo.com/ip3/cv.duyet.net.ico",
-    "slug": "cv-duyet-net",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
-    "time": 118,
-    "timeDay": 94,
-    "timeWeek": 93,
-    "timeMonth": 112,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2024-10-22": 0,
-      "2024-09-19": 8,
-      "2024-06-02": 8,
-      "2024-02-20": 1032
+      "2024-06-02": 8
     }
   },
   {
@@ -145,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 219,
-    "timeWeek": 146,
-    "timeMonth": 151,
-    "timeYear": 133,
+    "timeDay": 78,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -163,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 69,
-    "timeWeek": 144,
-    "timeMonth": 128,
-    "timeYear": 145,
+    "timeDay": 59,
+    "timeWeek": 123,
+    "timeMonth": 127,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2024-10-22": 16,
       "2024-06-02": 8
@@ -184,13 +176,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 160,
-    "timeDay": 169,
-    "timeWeek": 172,
-    "timeMonth": 163,
-    "timeYear": 167,
-    "dailyMinutesDown": {
-      "2024-02-20": 1032
-    }
+    "timeDay": 139,
+    "timeWeek": 174,
+    "timeMonth": 162,
+    "timeYear": 166,
+    "dailyMinutesDown": {}
   },
   {
     "name": "til.duyet.net",
@@ -204,13 +194,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 300,
-    "timeDay": 916,
-    "timeWeek": 845,
-    "timeMonth": 802,
+    "timeDay": 700,
+    "timeWeek": 821,
+    "timeMonth": 797,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2024-03-06": 14,
-      "2024-02-20": 1032
+      "2024-03-06": 14
     }
   },
   {
@@ -225,10 +214,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 59,
-    "timeWeek": 111,
+    "timeDay": 61,
+    "timeWeek": 81,
     "timeMonth": 89,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2024-10-22": 16,
       "2024-06-02": 8
@@ -246,9 +235,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 93,
-    "timeWeek": 132,
-    "timeMonth": 177,
+    "timeDay": 77,
+    "timeWeek": 136,
+    "timeMonth": 178,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-10-22": 15,
@@ -267,8 +256,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 22,
-    "timeWeek": 32,
+    "timeDay": 23,
+    "timeWeek": 33,
     "timeMonth": 39,
     "timeYear": 53,
     "dailyMinutesDown": {
@@ -282,16 +271,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ngan.vn.ico",
     "slug": "ngan-vn",
     "status": "up",
-    "uptime": "94.54%",
+    "uptime": "94.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.51%",
     "time": 2532,
-    "timeDay": 1681,
-    "timeWeek": 2195,
-    "timeMonth": 2448,
-    "timeYear": 2482,
+    "timeDay": 3714,
+    "timeWeek": 2390,
+    "timeMonth": 2466,
+    "timeYear": 2487,
     "dailyMinutesDown": {
       "2025-02-10": 10,
       "2025-02-07": 12,
@@ -323,11 +312,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 958,
-    "timeDay": 71,
-    "timeWeek": 142,
+    "time": 955,
+    "timeDay": 68,
+    "timeWeek": 130,
     "timeMonth": 124,
-    "timeYear": 835,
+    "timeYear": 832,
     "dailyMinutesDown": {
       "2024-10-22": 15,
       "2024-08-13": 8,
@@ -350,17 +339,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 406,
-    "timeDay": 437,
-    "timeWeek": 302,
+    "time": 405,
+    "timeDay": 203,
+    "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-01-11": 6,
       "2024-12-25": 8,
       "2024-08-28": 128,
-      "2024-06-02": 8,
-      "2024-02-20": 1032
+      "2024-06-02": 8
     }
   },
   {
@@ -375,10 +363,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 225,
+    "timeDay": 50,
     "timeWeek": 142,
-    "timeMonth": 122,
-    "timeYear": 101,
+    "timeMonth": 115,
+    "timeYear": 100,
     "dailyMinutesDown": {}
   },
   {
@@ -393,10 +381,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 608,
-    "timeDay": 336,
-    "timeWeek": 643,
-    "timeMonth": 738,
-    "timeYear": 583,
+    "timeDay": 559,
+    "timeWeek": 630,
+    "timeMonth": 747,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2024-10-22": 14,
       "2024-06-02": 8
@@ -414,9 +402,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 249,
-    "timeWeek": 147,
-    "timeMonth": 104,
+    "timeDay": 60,
+    "timeWeek": 148,
+    "timeMonth": 101,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -431,11 +419,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 886,
-    "timeDay": 324,
-    "timeWeek": 867,
-    "timeMonth": 732,
-    "timeYear": 886,
+    "time": 887,
+    "timeDay": 1189,
+    "timeWeek": 871,
+    "timeMonth": 736,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2024-10-22": 14,
       "2024-09-08": 125,
@@ -448,16 +436,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/duet-ubuntu.dingo-mora.ts.net.ico",
     "slug": "duet-ubuntu-dingo-mora-ts-net",
     "status": "up",
-    "uptime": "91.96%",
-    "uptimeDay": "26.55%",
-    "uptimeWeek": "53.57%",
+    "uptime": "92.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "67.85%",
     "uptimeMonth": "70.62%",
-    "uptimeYear": "91.96%",
-    "time": 1220,
-    "timeDay": 1181,
-    "timeWeek": 932,
-    "timeMonth": 996,
-    "timeYear": 1220,
+    "uptimeYear": "92.00%",
+    "time": 1219,
+    "timeDay": 937,
+    "timeWeek": 933,
+    "timeMonth": 995,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-02-17": 1059,
       "2025-02-16": 720,
