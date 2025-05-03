@@ -44,8 +44,12 @@ sites:
     url: https://rust-tieng-viet.github.io
   - name: clickhouse-monitoring.vercel.app
     url: https://clickhouse-monitoring.vercel.app/healthz
+  - name: clickhouse-monitoring.duyet.net
+    url: https://clickhouse-monitoring.duyet.net/healthz
   - name: duet-ubuntu.dingo-mora.ts.net
     url: https://duet-ubuntu.dingo-mora.ts.net/ping
+  - name: clickhouse.duyet.net
+    url: https://clickhouse.duyet.net/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
