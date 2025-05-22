@@ -472,7 +472,7 @@
     "timeMonth": 578,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-05-22": 566,
+      "2025-05-22": 579,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
       "2025-05-19": 1440,
@@ -499,11 +499,11 @@
     "url": "https://duet-ubuntu.dingo-mora.ts.net/ping",
     "icon": "https://icons.duckduckgo.com/ip3/duet-ubuntu.dingo-mora.ts.net.ico",
     "slug": "duet-ubuntu-dingo-mora-ts-net",
-    "status": "up",
+    "status": "down",
     "uptime": "87.89%",
-    "uptimeDay": "92.13%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "62.14%",
+    "uptimeDay": "92.06%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "62.17%",
     "uptimeYear": "87.89%",
     "time": 1168,
     "timeDay": 1092,
@@ -511,7 +511,7 @@
     "timeMonth": 1137,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2025-05-22": 113,
+      "2025-05-22": 114,
       "2025-05-20": 45,
       "2025-05-19": 17,
       "2025-05-10": 36,
@@ -625,8 +625,7 @@
       "2024-08-15": 11,
       "2024-08-11": 11,
       "2024-08-10": 18,
-      "2024-08-07": 11,
-      "2024-08-06": 10
+      "2024-08-07": 11
     }
   },
   {
@@ -635,11 +634,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/clickhouse.duyet.net.ico",
     "slug": "clickhouse-duyet-net",
     "status": "up",
-    "uptime": "63.05%",
+    "uptime": "63.06%",
     "uptimeDay": "97.95%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "63.05%",
-    "uptimeYear": "63.05%",
+    "uptimeMonth": "63.06%",
+    "uptimeYear": "63.06%",
     "time": 692,
     "timeDay": 536,
     "timeWeek": 1028,
