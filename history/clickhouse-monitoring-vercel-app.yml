@@ -1,7 +1,7 @@
 url: https://clickhouse-monitoring.vercel.app/healthz
 status: down
 code: 404
-responseTime: 112
-lastUpdated: 2025-07-03T23:06:01.026Z
+responseTime: 131
+lastUpdated: 2025-07-04T23:06:02.787Z
 startTime: 2024-04-04T14:16:51.461Z
 generator: Upptime <https://github.com/upptime/upptime>
