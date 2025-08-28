@@ -42,8 +42,8 @@ sites:
     url: https://next.ngan.vn
   - name: rust-tieng-viet.github.io
     url: https://rust-tieng-viet.github.io
-  - name: clickhouse-monitoring.vercel.app
-    url: https://clickhouse-monitoring.vercel.app/healthz
+  # - name: clickhouse-monitoring.vercel.app
+  #   url: https://clickhouse-monitoring.vercel.app/healthz
   - name: clickhouse-monitoring.duyet.net
     url: https://clickhouse-monitoring.duyet.net/healthz
   - name: duet-ubuntu.dingo-mora.ts.net
