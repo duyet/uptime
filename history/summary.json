@@ -696,19 +696,19 @@
     "url": "https://duet-ubuntu.dingo-mora.ts.net/ping",
     "icon": "https://icons.duckduckgo.com/ip3/duet-ubuntu.dingo-mora.ts.net.ico",
     "slug": "duet-ubuntu-dingo-mora-ts-net",
-    "status": "up",
-    "uptime": "88.85%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "87.23%",
+    "status": "down",
+    "uptime": "88.86%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "87.24%",
     "time": 1205,
     "timeDay": 908,
     "timeWeek": 897,
     "timeMonth": 1146,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2025-09-16": 31,
+      "2025-09-16": 32,
       "2025-09-08": 13,
       "2025-09-06": 9,
       "2025-08-31": 18,
@@ -814,8 +814,7 @@
       "2025-01-27": 26,
       "2025-01-26": 11,
       "2025-01-24": 9,
-      "2025-01-22": 19,
-      "2025-01-12": 12
+      "2025-01-22": 19
     }
   },
   {
