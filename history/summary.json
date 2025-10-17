@@ -8,7 +8,7 @@
     "uptime": "98.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.69%",
+    "uptimeMonth": "44.67%",
     "uptimeYear": "95.37%",
     "time": 513,
     "timeDay": 244,
@@ -16,7 +16,7 @@
     "timeMonth": 474,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2025-10-17": 565,
+      "2025-10-17": 577,
       "2025-10-16": 1440,
       "2025-10-15": 1440,
       "2025-10-14": 1440,
@@ -674,19 +674,19 @@
     "url": "https://clickhouse-monitoring.duyet.net/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/clickhouse-monitoring.duyet.net.ico",
     "slug": "clickhouse-monitoring-duyet-net",
-    "status": "up",
-    "uptime": "86.93%",
-    "uptimeDay": "91.57%",
-    "uptimeWeek": "93.29%",
+    "status": "down",
+    "uptime": "86.94%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "93.28%",
     "uptimeMonth": "83.48%",
-    "uptimeYear": "86.93%",
+    "uptimeYear": "86.94%",
     "time": 860,
     "timeDay": 607,
     "timeWeek": 1390,
     "timeMonth": 962,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-10-17": 108,
+      "2025-10-17": 109,
       "2025-10-16": 202,
       "2025-10-15": 56,
       "2025-10-14": 15,
@@ -743,8 +743,7 @@
       "2025-06-01": 26,
       "2025-05-31": 556,
       "2025-05-30": 1440,
-      "2025-05-29": 750,
-      "2025-05-28": 9
+      "2025-05-29": 750
     }
   },
   {
