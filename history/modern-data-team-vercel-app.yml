@@ -1,7 +1,7 @@
 url: https://modern-data-team.vercel.app
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2025-10-19T23:05:04.432Z
+status: down
+code: 500
+responseTime: 3422
+lastUpdated: 2025-10-20T07:00:13.164Z
 startTime: 2023-01-26T09:54:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
