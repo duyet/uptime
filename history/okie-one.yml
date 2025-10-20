@@ -1,7 +1,7 @@
 url: https://okie.one
-status: up
-code: 200
-responseTime: 2165
-lastUpdated: 2025-10-19T23:05:07.581Z
+status: down
+code: 500
+responseTime: 3430
+lastUpdated: 2025-10-20T07:00:27.397Z
 startTime: 2021-09-20T13:14:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
