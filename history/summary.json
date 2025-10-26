@@ -6,8 +6,8 @@
     "slug": "duyet-net",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "3.66%",
+    "uptimeDay": "29.71%",
+    "uptimeWeek": "4.24%",
     "uptimeMonth": "15.48%",
     "uptimeYear": "92.94%",
     "time": 514,
@@ -691,9 +691,9 @@
     "url": "https://clickhouse-monitoring.duyet.net/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/clickhouse-monitoring.duyet.net.ico",
     "slug": "clickhouse-monitoring-duyet-net",
-    "status": "up",
+    "status": "down",
     "uptime": "96.99%",
-    "uptimeDay": "96.95%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "97.64%",
     "uptimeMonth": "97.18%",
     "uptimeYear": "96.99%",
@@ -703,7 +703,7 @@
     "timeMonth": 906,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-10-26": 35,
+      "2025-10-26": 36,
       "2025-10-25": 55,
       "2025-10-24": 79,
       "2025-10-23": 49,
@@ -732,8 +732,7 @@
       "2025-09-19": 17,
       "2025-09-18": 10,
       "2025-09-17": 11,
-      "2025-09-15": 16,
-      "2025-09-09": 9
+      "2025-09-15": 16
     }
   },
   {
