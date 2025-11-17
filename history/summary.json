@@ -8,7 +8,7 @@
     "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.49%",
+    "uptimeMonth": "69.50%",
     "uptimeYear": "92.94%",
     "time": 522,
     "timeDay": 93,
@@ -92,9 +92,9 @@
     "slug": "s-duyet-net",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "20.85%",
-    "uptimeWeek": "88.69%",
-    "uptimeMonth": "97.40%",
+    "uptimeDay": "20.61%",
+    "uptimeWeek": "88.66%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.78%",
     "time": 133,
     "timeDay": 0,
@@ -102,7 +102,8 @@
     "timeMonth": 143,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-11-16": 1140
+      "2025-11-17": 2,
+      "2025-11-16": 1141
     }
   },
   {
@@ -736,9 +737,9 @@
     "slug": "clickhouse-monitoring-duyet-net",
     "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "91.17%",
-    "uptimeMonth": "97.04%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "91.13%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.54%",
     "time": 844,
     "timeDay": 559,
@@ -746,7 +747,8 @@
     "timeMonth": 810,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2025-11-16": 84,
+      "2025-11-17": 2,
+      "2025-11-16": 85,
       "2025-11-15": 169,
       "2025-11-14": 257,
       "2025-11-13": 185,
@@ -771,7 +773,7 @@
     "status": "up",
     "uptime": "93.21%",
     "uptimeDay": "98.17%",
-    "uptimeWeek": "80.98%",
+    "uptimeWeek": "81.02%",
     "uptimeMonth": "69.72%",
     "uptimeYear": "91.07%",
     "time": 1161,
