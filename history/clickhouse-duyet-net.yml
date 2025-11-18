@@ -1,7 +1,7 @@
 url: https://clickhouse.duyet.net/ping
-status: down
-code: 500
-responseTime: 106
-lastUpdated: 2025-11-18T12:56:10.083Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2025-11-18T13:16:33.318Z
 startTime: 2025-05-03T18:45:24.632Z
 generator: Upptime <https://github.com/upptime/upptime>
