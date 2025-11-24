@@ -8,7 +8,7 @@
     "uptime": "98.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
-    "uptimeMonth": "94.86%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "92.93%",
     "time": 522,
     "timeDay": 122,
@@ -96,7 +96,7 @@
     "uptime": "99.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.92%",
+    "uptimeMonth": "71.89%",
     "uptimeYear": "97.66%",
     "time": 133,
     "timeDay": 0,
@@ -104,7 +104,7 @@
     "timeMonth": 150,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-11-24": 1077,
+      "2025-11-24": 1094,
       "2025-11-23": 1440,
       "2025-11-22": 1440,
       "2025-11-21": 1440,
@@ -520,9 +520,9 @@
     "url": "https://ngan.vn",
     "icon": "https://icons.duckduckgo.com/ip3/ngan.vn.ico",
     "slug": "ngan-vn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.43%",
@@ -532,7 +532,7 @@
     "timeMonth": 2476,
     "timeYear": 2451,
     "dailyMinutesDown": {
-      "2025-11-24": 17,
+      "2025-11-24": 18,
       "2025-11-22": 27,
       "2025-11-20": 18,
       "2025-11-19": 12,
@@ -591,7 +591,7 @@
       "2025-05-27": 8,
       "2025-05-15": 15,
       "2025-03-29": 7,
-      "2025-03-28": 53
+      "2025-03-28": 40
     }
   },
   {
