@@ -1,7 +1,7 @@
 url: https://clickhouse-monitoring.duyet.net/healthz
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2025-11-27T17:22:34.238Z
+status: down
+code: 504
+responseTime: 352
+lastUpdated: 2025-11-27T21:47:32.245Z
 startTime: 2025-05-03T18:45:22.239Z
 generator: Upptime <https://github.com/upptime/upptime>
