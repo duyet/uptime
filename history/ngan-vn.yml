@@ -1,7 +1,7 @@
 url: https://ngan.vn
-status: up
-code: 200
-responseTime: 4767
-lastUpdated: 2025-12-06T10:34:45.888Z
+status: down
+code: 415
+responseTime: 1043
+lastUpdated: 2025-12-06T11:31:23.596Z
 startTime: 2021-09-20T13:29:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
